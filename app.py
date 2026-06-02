@@ -83,6 +83,40 @@ section.main .stButton > button {
     background:#f3f4f6; border-radius:6px; padding:5px 10px;
     font-size:0.8rem; color:#374151; margin-bottom:4px; cursor:pointer;
 }
+
+/* ── Disclaimer banner ───────────────────────────────────────────────────────
+   Prominent amber band — high contrast in both light & dark Streamlit themes. */
+.disclaimer-banner {
+    background: linear-gradient(135deg, #78350f 0%, #92400e 100%);
+    border: 1.5px solid #f59e0b;
+    border-left: 5px solid #fbbf24;
+    border-radius: 8px;
+    padding: 12px 18px;
+    margin: 0.6rem 0 1rem 0;
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+}
+.disclaimer-banner .disc-icon {
+    font-size: 1.25rem;
+    line-height: 1;
+    flex-shrink: 0;
+    margin-top: 1px;
+}
+.disclaimer-banner .disc-label {
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #fbbf24;
+    margin-bottom: 3px;
+}
+.disclaimer-banner .disc-text {
+    font-size: 0.8rem;
+    color: #fef3c7;
+    line-height: 1.5;
+    margin: 0;
+}
 </style>
 """, unsafe_allow_html=True)
 
@@ -265,9 +299,27 @@ with st.sidebar:
 # Header
 st.markdown(
     '<div class="app-header"><h1>🏦 MF FAQ Assistant</h1></div>'
-    '<p class="app-tagline">Mirae Asset Mutual Fund · Facts-only · No investment advice</p>',
+    '<p class="app-tagline">Mirae Asset Mutual Fund &nbsp;·&nbsp; Powered by Gemini 2.5 Flash + Pinecone</p>',
     unsafe_allow_html=True,
 )
+
+# ── Disclaimer banner (always visible, high contrast) ─────────────────────────
+st.markdown("""
+<div class="disclaimer-banner">
+  <div class="disc-icon">⚠️</div>
+  <div>
+    <div class="disc-label">Regulatory Disclaimer</div>
+    <p class="disc-text">
+      <strong>Facts-only · No investment advice.</strong>
+      This assistant provides factual information about Mirae Asset Mutual Fund schemes only.
+      It does <strong>not</strong> recommend, advise, or predict returns.
+      Sources: AMFI · SEBI · Mirae Asset · CAMS · KFintech.
+      Mutual fund investments are subject to market risks.
+      Please read all scheme-related documents carefully before investing.
+    </p>
+  </div>
+</div>
+""", unsafe_allow_html=True)
 
 # ── Quick questions (always visible at top) ────────────────────────────────────
 with st.container():
