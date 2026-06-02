@@ -1,0 +1,36 @@
+Source: https://miraeassetmf.co.in/schemes/equity/mirae-asset-flexi-cap-fund
+Category: amc_product | Scheme: Mirae Asset Flexi Cap Fund
+
+Mirae Asset Flexi Cap Fund – Key Facts
+
+Category: Flexi Cap Fund (as per SEBI categorization – invests across large, mid, and small cap stocks dynamically; no market-cap restriction)
+Plan Types: Regular Plan and Direct Plan (Growth and IDCW options)
+Fund Manager: Mirae Asset Investment Managers (India) Pvt. Ltd.
+
+Expense Ratio (approximate, as of latest available data):
+- Regular Plan (Growth): ~1.72% p.a.
+- Direct Plan (Growth): ~0.72% p.a.
+(TER is updated monthly; check amfiindia.com for the latest figure)
+
+Exit Load:
+- 1% if redeemed/switched within 1 year from the date of allotment
+- NIL after 1 year from the date of allotment
+
+Minimum Investment:
+- Lump Sum: ₹5,000 (minimum); ₹1 (additional purchase)
+- SIP: ₹1,000 per instalment
+
+Benchmark: Nifty 500 TRI (Total Return Index)
+
+Riskometer: Very High Risk
+(Flexi-cap equity funds carry Very High risk per SEBI labelling norms due to equity exposure across market caps)
+
+Lock-in Period: None (not an ELSS fund; fully liquid after exit load period)
+
+Fund Objective: To generate long-term capital appreciation from an actively managed portfolio of equity and equity related securities across market capitalizations.
+
+Tax Treatment:
+- LTCG (held > 1 year): 12.5% on gains above ₹1.25 lakh (as per Budget 2024)
+- STCG (held ≤ 1 year): 20%
+
+NAV: Updated at end of each business day; published on AMFI website (amfiindia.com)

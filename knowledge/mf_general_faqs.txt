@@ -1,0 +1,40 @@
+Source: https://www.amfiindia.com/investor-corner/knowledge-center/mutual-fund-faqs.html
+Category: amfi_education | Scheme: All Schemes
+
+Mutual Fund General FAQs – AMFI
+
+What is NAV (Net Asset Value)?
+NAV is the per-unit market value of a mutual fund scheme. It is calculated at end of every business day as:
+NAV = (Total Assets – Total Liabilities) / Number of Outstanding Units
+NAV is published on the AMFI website (amfiindia.com) by 11 PM on each business day.
+
+What is a Direct Plan vs Regular Plan?
+- Direct Plan: Investor buys directly from the AMC without going through a distributor. Lower TER (no distribution commission). Higher returns over long term.
+- Regular Plan: Bought through a distributor/advisor. Slightly higher TER due to distribution commission. Same portfolio as Direct Plan of the same fund.
+For Mirae Asset funds, both Regular and Direct plans are available on the AMC website and through platforms like Groww, Zerodha, CAMS, etc.
+
+What is Exit Load?
+Exit load is a fee charged when an investor redeems (withdraws) mutual fund units before a specified period. It is deducted from the redemption amount.
+For most Mirae Asset equity funds: 1% if redeemed within 1 year; NIL after 1 year.
+For Mirae Asset Liquid Fund: Graded exit load for first 7 days; NIL from Day 8 onwards.
+For Mirae Asset ELSS: NIL (lock-in prevents early redemption).
+
+What is a Factsheet?
+A monthly factsheet is a one-page summary published by the AMC containing:
+- Fund objective and category
+- Portfolio holdings (top 10 stocks/bonds)
+- AUM (Assets Under Management)
+- NAV as of month end
+- Expense ratio (TER)
+- Riskometer level
+- Benchmark and performance (1Y, 3Y, 5Y returns)
+- Fund manager details
+Download Mirae Asset factsheets from: miraeassetmf.co.in → Research & Information → Factsheets
+
+What is KIM/SID?
+- KIM = Key Information Memorandum: Condensed version of the SID. Contains key facts about the scheme.
+- SID = Scheme Information Document: Full legal document describing the scheme's investment objective, strategy, risks, fees, and procedures. Mandatory reading before investing.
+Both are available for free download on the AMC website.
+
+What is AUM?
+Assets Under Management (AUM) = total market value of all assets managed by the fund. Larger AUM generally indicates investor trust but may also limit investment flexibility for mid/small-cap funds.

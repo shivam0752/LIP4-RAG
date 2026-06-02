@@ -1,0 +1,42 @@
+Source: https://miraeassetmf.co.in/schemes/debt/mirae-asset-liquid-fund
+Category: amc_product | Scheme: Mirae Asset Liquid Fund
+
+Mirae Asset Liquid Fund – Key Facts
+
+Category: Liquid Fund (as per SEBI categorization – invests in debt and money market instruments with maturity up to 91 days)
+Plan Types: Regular Plan and Direct Plan (Growth and Daily/Weekly/Monthly IDCW options)
+Fund Manager: Mirae Asset Investment Managers (India) Pvt. Ltd.
+
+Expense Ratio (approximate, as of latest available data):
+- Regular Plan (Growth): ~0.25% p.a.
+- Direct Plan (Growth): ~0.15% p.a.
+(TER is updated monthly; check amfiindia.com for the latest figure)
+
+Exit Load:
+- Exit load is applicable for redemptions within 7 days as per a graded structure (SEBI mandate for liquid funds):
+  Day 1: 0.0070%
+  Day 2: 0.0065%
+  Day 3: 0.0060%
+  Day 4: 0.0055%
+  Day 5: 0.0050%
+  Day 6: 0.0045%
+  Day 7 and beyond: NIL
+- No exit load for redemptions on or after Day 7 from allotment date.
+
+Minimum Investment:
+- Lump Sum: ₹5,000 (minimum)
+- SIP: ₹1,000 per instalment
+
+Benchmark: Nifty Liquid Index A-I
+
+Riskometer: Low to Moderate Risk
+(Liquid funds invest in high-quality, short-duration instruments; SEBI classifies them as Low to Moderate risk)
+
+Lock-in Period: None
+
+Fund Objective: To provide reasonable returns with high liquidity by investing in a portfolio of debt and money market instruments with maturity up to 91 days.
+
+Tax Treatment:
+- Gains taxed as per investor's income tax slab (added to income) – no distinction between STCG/LTCG for debt funds as per Finance Act 2023 amendments.
+
+NAV: Updated at end of each business day; Liquid fund NAV may also be updated for previous day for instant redemption purposes.

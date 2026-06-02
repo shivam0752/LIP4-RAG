@@ -1,0 +1,29 @@
+Source: https://www.camsonline.com/Investors/Statements/Capital-Gain-Loss-Statement
+Category: cams_statement | Scheme: All Schemes
+
+How to Download Capital Gains Statement from CAMS
+
+CAMS (Computer Age Management Services) is the Registrar and Transfer Agent (RTA) for several mutual fund AMCs including Mirae Asset.
+
+Step-by-step guide to download Capital Gains Statement from CAMS:
+
+1. Visit: https://www.camsonline.com
+2. Navigate to: Investors → Statements → Capital Gain / Loss Statement
+3. Enter your registered email address (the one linked to your mutual fund folio)
+4. Select Financial Year (e.g., April 2024 to March 2025)
+5. Select statement type: "Capital Gain Statement (Detailed)" or "Capital Gain Statement (Summary)"
+6. Enter the OTP sent to your registered email/mobile
+7. The statement will be emailed to your registered email address as a password-protected PDF
+8. Password for PDF: Your PAN number in UPPERCASE (e.g., ABCDE1234F)
+
+CAMS Services AMCs (includes Mirae Asset Mutual Fund):
+CAMS is the RTA for many AMCs. Mirae Asset Mutual Fund is serviced by CAMS. So Mirae Asset fund transactions appear in CAMS statements.
+
+For KFintech-serviced funds:
+Visit: https://mfs.kfintech.com/investor/General/CapitalGain
+(Similar process for AMCs serviced by KFintech such as SBI MF, HDFC MF)
+
+For a Combined Statement (all AMCs):
+Use the Consolidated Account Statement (CAS) available via:
+- CAMS: https://www.camsonline.com/Investors/Statements/Consolidated-Account-Statement
+- NSDL: https://www.ndl.gov.in

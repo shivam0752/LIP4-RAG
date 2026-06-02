@@ -1,0 +1,25 @@
+Source: https://www.amfiindia.com/investor-corner/knowledge-center/elss.html
+Category: ELSS | Scheme: Mirae Asset ELSS Tax Saver Fund
+
+ELSS – Equity Linked Savings Scheme
+
+Lock-in Period:
+ELSS funds have a mandatory lock-in period of 3 years from the date of each investment.
+When investing via SIP, EACH instalment has its own independent 3-year lock-in from its allotment date.
+This is the shortest lock-in among all Section 80C instruments (PPF has 15 years, NSC has 5 years, tax-saving FD has 5 years).
+
+Tax Benefit:
+Investments up to ₹1.5 lakh per financial year qualify for deduction under Section 80C of the Income Tax Act, 1961.
+After the lock-in, Long-Term Capital Gains (LTCG) above ₹1.25 lakh are taxed at 12.5% (effective FY 2024-25 onwards per Union Budget 2024).
+
+Mirae Asset ELSS Tax Saver Fund specifics:
+- Category: ELSS (Equity Linked Savings Scheme)
+- Minimum SIP: ₹500 per month
+- Minimum lump sum: ₹500
+- Exit Load: NIL (cannot redeem during lock-in; no exit load after lock-in)
+- Risk: Very High (as per SEBI riskometer; equity-oriented fund)
+- Benchmark: Nifty 500 TRI
+- Fund Manager: Mirae Asset Investment Managers (India) Pvt. Ltd.
+- AMFI registration: Registered AMC under SEBI (Mutual Funds) Regulations, 1996
+
+Note: At least 80% of assets must be invested in equity and equity-related instruments as per SEBI categorization norms for ELSS.

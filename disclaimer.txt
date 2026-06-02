@@ -1,0 +1,27 @@
+DISCLAIMER
+==========
+
+This assistant provides factual information only about Mirae Asset Mutual Fund
+schemes. It does NOT provide investment advice, portfolio recommendations,
+return projections, or any form of financial guidance.
+
+All information is sourced exclusively from official public pages:
+  - AMFI India (amfiindia.com)
+  - SEBI (sebi.gov.in)
+  - Mirae Asset Mutual Fund (miraeassetmf.co.in)
+  - CAMS (camsonline.com)
+  - KFintech (kfintech.com)
+
+Answers reflect the state of source documents at the last corpus refresh
+(displayed with every answer). Scheme data such as expense ratios and NAVs
+change over time — always verify with the official AMC/AMFI website before
+making any financial decision.
+
+Mutual fund investments are subject to market risks.
+Please read all scheme-related documents carefully before investing.
+
+This tool does NOT accept, store, or process any personally identifiable
+information (PII) such as PAN, Aadhaar, account numbers, email addresses,
+or phone numbers.
+
+For investment advice, please consult a SEBI-registered investment advisor.

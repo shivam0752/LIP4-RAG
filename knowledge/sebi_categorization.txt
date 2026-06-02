@@ -1,0 +1,33 @@
+Source: https://www.sebi.gov.in/legal/circulars/may-2021/categorization-and-rationalization-of-mutual-fund-schemes_50060.html
+Category: sebi_circular | Scheme: All Schemes
+
+SEBI Scheme Categorization – Mutual Fund Scheme Types
+
+SEBI mandates that each AMC can offer only one scheme per category to avoid duplication. Below are relevant categories and their investment mandates:
+
+Large Cap Fund:
+- Must invest minimum 80% of assets in equity of large-cap companies
+- Large-cap = Top 100 companies by full market capitalization (as defined by SEBI/AMFI list updated every 6 months)
+- Example: Mirae Asset Large Cap Fund → Benchmark: Nifty 100 TRI
+
+Flexi Cap Fund:
+- Must invest minimum 65% of assets in equity and equity-related instruments
+- No restriction on market capitalization – can invest across large, mid, and small cap
+- Example: Mirae Asset Flexi Cap Fund → Benchmark: Nifty 500 TRI
+
+Mid Cap Fund:
+- Must invest minimum 65% of assets in equity of mid-cap companies
+- Mid-cap = 101st to 250th company by full market capitalization
+- Example: Mirae Asset Mid Cap Fund → Benchmark: Nifty Midcap 150 TRI
+
+ELSS (Equity Linked Savings Scheme):
+- Must invest minimum 80% of assets in equity and equity-related instruments
+- Mandatory 3-year lock-in; qualifies for Section 80C deduction
+- Example: Mirae Asset ELSS Tax Saver Fund → Benchmark: Nifty 500 TRI
+
+Liquid Fund:
+- Invests only in debt and money market instruments with maturity up to 91 days
+- Must NOT invest in risky instruments (no credit risk below AA-rated paper typically)
+- Example: Mirae Asset Liquid Fund → Benchmark: Nifty Liquid Index A-I
+
+AMFI publishes the updated list of large-cap, mid-cap, and small-cap companies every 6 months (January and July).

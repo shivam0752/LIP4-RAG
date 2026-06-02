@@ -1,0 +1,34 @@
+Source: https://www.sebi.gov.in/legal/circulars/oct-2020/product-labeling-in-mutual-funds-risk-o-meter_47909.html
+Category: sebi_circular | Scheme: All Schemes
+
+SEBI Riskometer – Product Labelling in Mutual Funds
+
+The SEBI Riskometer is a mandatory risk-labelling mechanism for all mutual fund schemes in India, introduced to help investors understand the risk level of a scheme at a glance.
+
+Risk Levels (6 levels as per SEBI circular October 2020 and subsequent amendments):
+1. Low – Principal at low risk (e.g., Overnight Funds, Liquid Funds with high-quality paper)
+2. Low to Moderate – Principal at low to moderate risk (e.g., Liquid Funds, Ultra-Short Duration Funds)
+3. Moderate – Principal at moderate risk (e.g., Short Duration Debt Funds, Balanced Funds)
+4. Moderately High – Principal at moderately high risk (e.g., Dynamic Bond Funds, Aggressive Hybrid Funds)
+5. High – Principal at high risk (e.g., Large & Mid Cap Funds, Multi Cap Funds)
+6. Very High – Principal at very high risk (e.g., Mid Cap, Small Cap, Thematic, ELSS, Sectoral Funds)
+
+Mirae Asset Scheme Risk Levels:
+- Mirae Asset Large Cap Fund: Very High
+- Mirae Asset Flexi Cap Fund: Very High
+- Mirae Asset ELSS Tax Saver Fund: Very High
+- Mirae Asset Mid Cap Fund: Very High
+- Mirae Asset Liquid Fund: Low to Moderate
+
+Riskometer Review:
+AMCs must review and update the riskometer every month based on the portfolio's composition.
+The updated riskometer is published in the fund's monthly factsheet available on the AMC website and AMFI.
+
+Source of riskometer authority: SEBI Circular SEBI/HO/IMD/DF3/CIR/P/2020/197 dated October 5, 2020.
+
+Benchmark Indices for Mirae Asset Schemes:
+- Large Cap Fund → Nifty 100 TRI
+- Flexi Cap Fund → Nifty 500 TRI
+- ELSS Tax Saver Fund → Nifty 500 TRI
+- Mid Cap Fund → Nifty Midcap 150 TRI
+- Liquid Fund → Nifty Liquid Index A-I

@@ -1,0 +1,37 @@
+Source: https://www.sebi.gov.in/legal/circulars/sep-2012/rationalization-of-total-expense-ratio-ter-charged-by-mutual-funds_23689.html
+Category: sebi_circular | Scheme: All Schemes
+
+Total Expense Ratio (TER) – SEBI Regulations
+
+What is TER (Total Expense Ratio)?
+The Total Expense Ratio (TER) is the annual fee charged by a mutual fund to manage the scheme's assets. It is expressed as a percentage of the fund's daily net assets (AUM). TER includes fund management fees, registrar/transfer agent fees, custodian fees, marketing expenses, and other operational costs.
+
+SEBI TER Limits for Equity Funds (per SEBI circular; effective from 2018):
+AUM Slab → Maximum TER (Regular Plan):
+- First ₹500 crore: 2.25%
+- ₹500 crore to ₹750 crore: 2.00%
+- ₹750 crore to ₹2,000 crore: 1.75%
+- ₹2,000 crore to ₹5,000 crore: 1.60%
+- ₹5,000 crore to ₹10,000 crore: 1.50%
+- ₹10,000 crore to ₹50,000 crore: 1.05% (plus incremental 0.05% for each ₹10,000 crore up to 1.05%)
+- Above ₹50,000 crore: 0.80%
+Direct plans must have a lower TER than regular plans (difference = distribution commission saved).
+
+For Debt/Liquid Funds, TER limits are lower (typically 25 bps less than equity limits).
+
+How TER Affects Returns:
+TER is deducted from the fund's daily NAV. A fund with 1% TER effectively earns 1% less in returns than gross portfolio returns each year.
+
+Where to Check Latest TER:
+- AMFI website: amfiindia.com (published daily)
+- AMC website: Mirae Asset publishes monthly TER disclosures
+- Monthly factsheets
+
+Approximate TERs for Mirae Asset Schemes (Regular Plan / Direct Plan):
+- Large Cap Fund: ~1.55% / ~0.59%
+- Flexi Cap Fund: ~1.72% / ~0.72%
+- ELSS Tax Saver Fund: ~1.78% / ~0.56%
+- Mid Cap Fund: ~1.77% / ~0.67%
+- Liquid Fund: ~0.25% / ~0.15%
+
+Note: These are approximate figures. Always check the latest TER on AMFI or the AMC website before investing.

@@ -1,0 +1,36 @@
+Source: https://miraeassetmf.co.in/schemes/equity/mirae-asset-elss-tax-saver-fund
+Category: amc_product | Scheme: Mirae Asset ELSS Tax Saver Fund
+
+Mirae Asset ELSS Tax Saver Fund – Key Facts
+
+Category: ELSS – Equity Linked Savings Scheme (Tax-saving equity fund under Section 80C)
+Plan Types: Regular Plan and Direct Plan (Growth and IDCW options)
+Fund Manager: Mirae Asset Investment Managers (India) Pvt. Ltd.
+
+Expense Ratio (approximate, as of latest available data):
+- Regular Plan (Growth): ~1.78% p.a.
+- Direct Plan (Growth): ~0.56% p.a.
+(TER is updated monthly; check amfiindia.com for the latest figure)
+
+Exit Load: NIL
+(Redemption within the mandatory 3-year lock-in period is not permitted; no exit load applicable after lock-in)
+
+Minimum Investment:
+- Lump Sum: ₹500 (minimum); ₹500 (additional)
+- SIP: ₹500 per instalment (lowest among Mirae Asset schemes)
+
+Benchmark: Nifty 500 TRI (Total Return Index)
+
+Riskometer: Very High Risk
+
+Lock-in Period: 3 years (mandatory per SEBI ELSS regulations)
+- Each SIP instalment has its own independent 3-year lock-in from its allotment date
+- Cannot redeem, switch, or pledge units during the lock-in
+
+Tax Benefit:
+- Investments up to ₹1.5 lakh per financial year qualify for deduction under Section 80C
+- Post lock-in: LTCG above ₹1.25 lakh taxed at 12.5% (Budget 2024)
+
+Fund Objective: To generate long-term capital appreciation from a diversified portfolio predominantly consisting of equity and equity related instruments, while offering tax benefits under Section 80C.
+
+Investment Mandate: Must invest at least 80% in equity and equity related instruments (per SEBI categorization).

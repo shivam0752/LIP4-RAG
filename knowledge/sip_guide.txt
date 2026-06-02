@@ -1,0 +1,28 @@
+Source: https://www.amfiindia.com/investor-corner/knowledge-center/sip-faqs.html
+Category: SIP | Scheme: All Schemes
+
+SIP – Systematic Investment Plan
+
+What is a SIP?
+A Systematic Investment Plan (SIP) allows investors to invest a fixed amount at regular intervals (monthly, quarterly) in a mutual fund scheme rather than investing a lump sum at one time.
+
+Minimum SIP Amounts for Mirae Asset Schemes:
+- Mirae Asset Large Cap Fund: ₹1,000 per month (Regular & Direct Plan)
+- Mirae Asset Flexi Cap Fund: ₹1,000 per month (Regular & Direct Plan)
+- Mirae Asset ELSS Tax Saver Fund: ₹500 per month (Regular & Direct Plan)
+- Mirae Asset Mid Cap Fund: ₹1,000 per month (Regular & Direct Plan)
+- Mirae Asset Liquid Fund: ₹1,000 per month (Regular & Direct Plan)
+
+SIP Frequencies available: Monthly, Quarterly (varies by scheme; monthly is most common).
+
+How SIP Works:
+On each SIP date, the fixed amount is debited from your bank account and units are allotted at the prevailing NAV of that day.
+SIPs benefit from rupee cost averaging – more units are purchased when NAV is low, fewer when NAV is high.
+
+SIP for ELSS:
+Each SIP instalment in an ELSS fund has its own 3-year lock-in from its date of allotment.
+
+How to Start/Stop SIP:
+SIPs can be started, paused, or cancelled through the AMC's online portal, CAMS (camsonline.com), KFintech, or through a registered distributor/investment platform.
+
+No penalty for pausing SIP; however, if 3 consecutive instalments are missed, the SIP may be automatically cancelled as per AMC policy.
