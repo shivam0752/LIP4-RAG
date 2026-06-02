@@ -145,13 +145,9 @@ SCHEMES = [
 # These are guaranteed to return great answers from our knowledge base
 QUICK_QUESTIONS = [
     "Expense ratio of Mirae Asset Large Cap Fund?",
-    "ELSS lock-in period?",
-    "Exit load for Flexi Cap Fund?",
     "Riskometer of Mirae Asset Mid Cap Fund?",
     "Minimum SIP for Mirae Asset ELSS?",
-    "How to download capital gains statement from CAMS?",
-    "Benchmark of Mirae Asset Liquid Fund?",
-    "Direct plan vs Regular plan difference?",
+    "How to download capital gains statement from CAMS?"
 ]
 
 DISCLAIMER = (
