@@ -147,7 +147,7 @@ QUICK_QUESTIONS = [
     "Expense ratio of Mirae Asset Large Cap Fund?",
     "Riskometer of Mirae Asset Mid Cap Fund?",
     "Minimum SIP for Mirae Asset ELSS?",
-    "How to download capital gains statement from CAMS?"
+    "How to download capital gains statement from CAMS?",
 ]
 
 DISCLAIMER = (
