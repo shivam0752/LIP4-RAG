@@ -348,7 +348,7 @@ for msg in st.session_state["messages"]:
                 if url:
                     parts.append(f"[Source]({url})")
                 if ts:
-                    parts.append(f"Updated: {ts}")
+                    parts.append(f"Last updated from sources: {ts}")
                 if parts:
                     st.caption(" · ".join(parts))
 

@@ -1,6 +1,8 @@
-# Mutual Fund FAQ Assistant — Mirae Asset
+# Mirae Asset MF FAQ Assistant
 
-A **facts-only RAG (Retrieval-Augmented Generation) FAQ assistant** for Mirae Asset Mutual Fund schemes, built as part of the LIP Challenge (W3 — RAGs).
+This is a **facts-only** RAG-based FAQ assistant built for **Groww** users to compare and query factual details about Mirae Asset Mutual Fund schemes without receiving financial advice.
+
+It uses a pre-curated corpus of official AMC, SEBI, and AMFI pages.
 
 ---
 

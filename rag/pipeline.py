@@ -99,8 +99,7 @@ def answer(query: str) -> Dict[str, Any]:
             "chunks_used": 0,
         }
 
-    # ── 3. Build prompts ──────────────────────────────────────────────────────
-    system_prompt = build_system_prompt(fetched_at=fetched_at)
+    system_prompt = build_system_prompt()
     user_prompt = build_user_prompt(query=query, context_chunks=chunks)
 
     # ── 4. Generate answer via Gemini 2.5 Flash ───────────────────────────────

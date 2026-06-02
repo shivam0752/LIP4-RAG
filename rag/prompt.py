@@ -15,7 +15,6 @@ STRICT RULES — follow every rule without exception:
 6. If the context does not contain a clear answer, respond with:
    "I couldn't find this information in the official sources. Please check the official AMFI website: https://www.amfiindia.com"
 7. Never make up information. Stick strictly to the context.
-8. Append "Last updated from sources: {fetched_at}" at the end of every answer.
 
 Tone: factual, concise, helpful."""
 
@@ -51,6 +50,6 @@ Provide a factual answer in ≤3 sentences using ONLY the context above. \
 End with: Source: <URL from the most relevant chunk>"""
 
 
-def build_system_prompt(fetched_at: str = "unknown") -> str:
-    """Return system prompt with fetched_at timestamp filled in."""
-    return SYSTEM_PROMPT.format(fetched_at=fetched_at)
+def build_system_prompt() -> str:
+    """Return the system prompt."""
+    return SYSTEM_PROMPT
